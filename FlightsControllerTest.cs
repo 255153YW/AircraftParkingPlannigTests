@@ -4,9 +4,6 @@ using AircraftParkingPlanning.Model;
 using FakeItEasy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Microsoft.VisualStudio.TestPlatform.Common.Utilities;
-using Microsoft.VisualStudio.TestPlatform.TestHost;
-using System.Reflection;
 
 namespace AircraftParkingPlannigTests
 {
